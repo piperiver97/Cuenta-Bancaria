@@ -31,3 +31,4 @@ La clase Cuenta tiene dos clases hijas:
   -  Captura de pantalla del diagrama de clase o enlace público al archivo de diagrams.net
   -  Captura de pantalla de la sección testing de VSCode que muestre que se ha complido con la cobertura de tests
 ![902605e255731c27d85014f04b8c607b](https://github.com/user-attachments/assets/dc160d98-02a0-4299-b56b-040344c540cb)
+![b86f214664f77d5a0485e3f975f86bd1](https://github.com/user-attachments/assets/506ce847-1480-48e5-b911-c47b204e0ae6)
