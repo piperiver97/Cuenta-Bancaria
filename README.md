@@ -30,3 +30,4 @@ La clase Cuenta tiene dos clases hijas:
   -  Repositorio de Github
   -  Captura de pantalla del diagrama de clase o enlace público al archivo de diagrams.net
   -  Captura de pantalla de la sección testing de VSCode que muestre que se ha complido con la cobertura de tests
+![902605e255731c27d85014f04b8c607b](https://github.com/user-attachments/assets/dc160d98-02a0-4299-b56b-040344c540cb)
